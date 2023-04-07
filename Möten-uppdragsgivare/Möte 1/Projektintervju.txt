@@ -1,0 +1,19 @@
+# Intervju:
+
+Det ska finnas 16 QR-koder, 4 rum 4 scenarion, en QR-kod för varje patient. Dessa ska kunna skannas och man ska komma in i en vy där man kan mata in värdena.
+
+De vill föra in mätvärden enligt news skalan, de vill kunna komma åt webappen genom att skanna en qr kod.
+De vill att studenterna skall kunna ta värden flera gånger på samma patient och visa upp resultatet över tid på en graf.
+
+Patienternas värden ska vara kopplade till en identitet. “Koppla värde till identitet” det kan vara viktigt att momentet efterliknar det sjuksköterskorna kommer att möta i arbetslivet , “riktiga” personnummer namn etc.
+
+Vi kan hämta inspiration från “mätvärdesappen".
+
+De vill själva kunna tömma värden för patienter. Ide: QR-kod för att tömma all patientdata.
+
+Webbapp är godkänt, ska köras på webläsaren Safari.
+
+Vi har fått låna en av deras Ipads att ha under projektets gång. 
+
+Vi har möjlighet att använda en server , prata med William.
+
